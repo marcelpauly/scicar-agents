@@ -1,0 +1,5 @@
+openpyxl
+pandas
+pydantic
+pydantic-ai
+tqdm
